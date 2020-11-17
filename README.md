@@ -1,2 +1,2 @@
-# lms
-Learning Management System
+# Initial page
+
