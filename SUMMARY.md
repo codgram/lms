@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [LMS: Learning Management System](README.md)
 
